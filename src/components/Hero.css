@@ -1,0 +1,20 @@
+.container-bg{
+  background-image: url(../images/homeDecor.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-bg .h4{
+  background-color: rgba(245, 222, 179, 0.637);
+  width: 500px;
+  height: 65px;
+  text-align: center;
+  border-radius: 20px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  /* -webkit-backdrop-filter: blur(9px);
+  filter: blur(0px); */
+}
